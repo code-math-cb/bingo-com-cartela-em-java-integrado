@@ -20,5 +20,13 @@ O projeto foi desenvolvido como parte da disciplina **Programação Orientada a 
 
 ---
 
+## 🥷 Equipe
+
+- **Everton Victor - 01811477**
+- **Matheus Cabral - 01647896**
+- **Valter Luiz - 01837580**
+- **Anderson Henrique - 01796833**
+- **Ruann- 01804515**
+
 ## 🧱 Estrutura do Projeto
 
